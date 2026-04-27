@@ -1,10 +1,6 @@
-
-
 import java.util.Scanner;
 
-/**
- * le but de cette class est de
- */
+
 public class IMC {
     public static void main(String[] args)
     {
